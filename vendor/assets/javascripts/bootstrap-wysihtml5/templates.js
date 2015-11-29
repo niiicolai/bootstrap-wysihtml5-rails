@@ -9,7 +9,7 @@ this["wysihtml5"]["tpl"]["blockquote"] = Handlebars.template({"1":function(depth
 },"3":function(depth0,helpers,partials,data) {
     return "      <span class=\"fa fa-quote-left\"></span>\n";
 },"5":function(depth0,helpers,partials,data) {
-    return "      <span class=\"glyphicon glyphicon-quote\"></span>\n";
+    return "      <span class=\"fa fa-quote-left\"></span>\n";
 },"compiler":[6,">= 2.0.0-beta.1"],"main":function(depth0,helpers,partials,data) {
     var stack1;
 
@@ -98,7 +98,7 @@ this["wysihtml5"]["tpl"]["font-styles"] = Handlebars.template({"1":function(dept
 },"3":function(depth0,helpers,partials,data) {
     return "      <span class=\"fa fa-font\"></span>\n";
 },"5":function(depth0,helpers,partials,data) {
-    return "      <span class=\"glyphicon glyphicon-font\"></span>\n";
+    return "      <span class=\"fa fa-font\"></span>\n";
 },"compiler":[6,">= 2.0.0-beta.1"],"main":function(depth0,helpers,partials,data) {
     var stack1, alias1=this.lambda, alias2=this.escapeExpression;
 
@@ -133,7 +133,7 @@ this["wysihtml5"]["tpl"]["html"] = Handlebars.template({"1":function(depth0,help
 },"3":function(depth0,helpers,partials,data) {
     return "        <span class=\"fa fa-pencil\"></span>\n";
 },"5":function(depth0,helpers,partials,data) {
-    return "        <span class=\"glyphicon glyphicon-pencil\"></span>\n";
+    return "        <span class=\"fa fa-penci\"></span>\n";
 },"compiler":[6,">= 2.0.0-beta.1"],"main":function(depth0,helpers,partials,data) {
     var stack1;
 
@@ -156,7 +156,7 @@ this["wysihtml5"]["tpl"]["image"] = Handlebars.template({"1":function(depth0,hel
 },"5":function(depth0,helpers,partials,data) {
     return "      <span class=\"fa fa-file-image-o\"></span>\n";
 },"7":function(depth0,helpers,partials,data) {
-    return "      <span class=\"glyphicon glyphicon-picture\"></span>\n";
+    return "      <span class=\"fa fa-file-image-o\"></span>\n";
 },"compiler":[6,">= 2.0.0-beta.1"],"main":function(depth0,helpers,partials,data) {
     var stack1, alias1=this.lambda, alias2=this.escapeExpression;
 
@@ -187,7 +187,7 @@ this["wysihtml5"]["tpl"]["link"] = Handlebars.template({"1":function(depth0,help
 },"5":function(depth0,helpers,partials,data) {
     return "      <span class=\"fa fa-share-square-o\"></span>\n";
 },"7":function(depth0,helpers,partials,data) {
-    return "      <span class=\"glyphicon glyphicon-share\"></span>\n";
+    return "      <span class=\"fa fa-share-square-o\"></span>\n";
 },"compiler":[6,">= 2.0.0-beta.1"],"main":function(depth0,helpers,partials,data) {
     var stack1, alias1=this.lambda, alias2=this.escapeExpression;
 
@@ -218,19 +218,19 @@ this["wysihtml5"]["tpl"]["lists"] = Handlebars.template({"1":function(depth0,hel
 },"3":function(depth0,helpers,partials,data) {
     return "      <span class=\"fa fa-list-ul\"></span>\n";
 },"5":function(depth0,helpers,partials,data) {
-    return "      <span class=\"glyphicon glyphicon-list\"></span>\n";
+    return "      <span class=\"fa fa-list-ul\"></span>\n";
 },"7":function(depth0,helpers,partials,data) {
     return "      <span class=\"fa fa-list-ol\"></span>\n";
 },"9":function(depth0,helpers,partials,data) {
-    return "      <span class=\"glyphicon glyphicon-th-list\"></span>\n";
+    return "      <span class=\"fa fa-list-ol\"></span>\n";
 },"11":function(depth0,helpers,partials,data) {
     return "      <span class=\"fa fa-outdent\"></span>\n";
 },"13":function(depth0,helpers,partials,data) {
-    return "      <span class=\"glyphicon glyphicon-indent-right\"></span>\n";
+    return "      <span class=\"fa fa-outdent\"></span>\n";
 },"15":function(depth0,helpers,partials,data) {
     return "      <span class=\"fa fa-indent\"></span>\n";
 },"17":function(depth0,helpers,partials,data) {
-    return "      <span class=\"glyphicon glyphicon-indent-left\"></span>\n";
+    return "      <span class=\"fa fa-indent\"></span>\n";
 },"compiler":[6,">= 2.0.0-beta.1"],"main":function(depth0,helpers,partials,data) {
     var stack1, alias1=this.lambda, alias2=this.escapeExpression;
 
